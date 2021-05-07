@@ -20,6 +20,7 @@ awesome-package==1.33.7
 ```
 Used as
 ```cmd
+>> cd lambda_layer_template
 >> python main.py [your-layer-name] [python-runtime]
 ```
 Requires Docker to run
