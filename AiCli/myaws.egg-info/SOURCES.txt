@@ -1,0 +1,8 @@
+myaws.py
+setup.py
+myaws.egg-info/PKG-INFO
+myaws.egg-info/SOURCES.txt
+myaws.egg-info/dependency_links.txt
+myaws.egg-info/entry_points.txt
+myaws.egg-info/requires.txt
+myaws.egg-info/top_level.txt
